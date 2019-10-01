@@ -1,0 +1,19 @@
+{
+  "name": "@improntaadvance/sentry-console-transport",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@sentry/types": "^5.6.1",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}
